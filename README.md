@@ -13,13 +13,10 @@
 
 
 #### 安装依赖
-bash
-npm install
+```npm install```
 
 #### 开发模式运行
-bash
-npm start
+```npm start```
 
 #### 构建生产版本
-bash
-npm run build
+```npm run build```
